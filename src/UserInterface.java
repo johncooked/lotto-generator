@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class UserInterface {
     private static Scanner scanner;
-    private static boolean isDone = false;
 
-   public UserInterface() {
+    public UserInterface() {
        scanner = new Scanner(System.in);
        displayWelcomeMes();
        mainMenu();
@@ -81,7 +80,7 @@ public class UserInterface {
    }
 
    private static void contextMenu(DrawCollection drawCollection, String gameType, int maxNum, int numSpecial, boolean isPowerball) {
-       isDone = false;
+       boolean isDone = false;
        while (!isDone) {
            final int VIEW_LATEST = 0, ADD_DRAW = 1, DELETE_DRAW = 2, VIEW_WINNINGS_FREQ = 3, VIEW_SPECIAL_FREQ = 4, GENERATE_RAND = 5, GENERATE_RAND_FREQ = 6, SAVE_EXIT = 7, BACK = 8;
 

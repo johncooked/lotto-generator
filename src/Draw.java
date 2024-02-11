@@ -26,10 +26,6 @@ public class Draw {
         return specialNumbers;
     }
 
-    public String getDrawDate() {
-        return drawDate;
-    }
-
     public void printDraw() {
         StringBuilder sb = new StringBuilder();
         sb.append("Draw ").append(drawNumber).append(":  ");
