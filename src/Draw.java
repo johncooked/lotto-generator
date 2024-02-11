@@ -2,10 +2,10 @@ import java.util.Collections;
 import java.util.List;
 
 public class Draw {
-    private int drawNumber;
-    private List<Integer> winningNumbers;
-    private List<Integer> specialNumbers;
-    private String drawDate;
+    private final int drawNumber;
+    private final List<Integer> winningNumbers;
+    private final List<Integer> specialNumbers;
+    private final String drawDate;
 
     public Draw(int drawNumber, List<Integer> winningNumbers, List<Integer> specialNumbers, String drawDate) {
         this.drawNumber = drawNumber;
