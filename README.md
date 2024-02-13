@@ -7,17 +7,17 @@ This project provides basic functionalities to interact with lotto-draw data. Us
 
 **How to Run**
 
-Prerequisites:
+**1. Prerequisites:**
 
-  1. Intellij IDEA Community 2023 installed on your system.
-  2. Amazon Corretto 17 JDK installed on your system.
+    - Intellij IDEA Community 2023 installed on your system.
+    - Amazon Corretto 17 JDK installed on your system.
     
-**Installation:**
-  1. Clone or download the code to your IDE.
+**2. Installation:**
+    - Clone or download the code to your IDE.
     
-**Running the Program:**
-  1. Open Intellij IDEA Community 2023.
-  2. Import the project by selecting File > Open and navigating to the directory where you cloned or downloaded the code.
-  3. Locate the run button, typically in the top-right corner of the IDE or directly in the Main class.
-  4. Start the program by clicking the run button.
-  5. Follow the instructions provided in the interface to navigate the program.
+**3. Running the Program:**
+    - Open Intellij IDEA Community 2023.
+    - Import the project by selecting File > Open and navigating to the directory where you cloned or downloaded the code.
+    - Locate the run button, typically in the top-right corner of the IDE or directly in the Main class.
+    - Start the program by clicking the run button.
+    - Follow the instructions provided in the interface to navigate the program.
