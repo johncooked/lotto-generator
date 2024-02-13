@@ -13,9 +13,11 @@ This project provides basic functionalities to interact with lotto-draw data. Us
     - Amazon Corretto 17 JDK installed on your system.
     
 ###2. Installation:
+
     - Clone or download the code to your IDE.
     
 ###3. Running the Program:
+
     - Open Intellij IDEA Community 2023.
     - Import the project by selecting File > Open and navigating to the directory where you cloned or downloaded the code.
     - Locate the run button, typically in the top-right corner of the IDE or directly in the Main class.
