@@ -1,4 +1,4 @@
-# Lotto Gemerator Console App
+# Lotto Generator Console App
 
 Lotto Console Interface is a simple console interface application that operates on real lotto draw datasets. This project is intended for fun and may contain flaws.
 
@@ -23,3 +23,10 @@ This project provides basic functionalities to interact with lotto-draw data. Us
     - Locate the run button, typically in the top-right corner of the IDE or directly in the Main class.
     - Start the program by clicking the run button.
     - Follow the instructions provided in the interface to navigate the program.
+
+## Issues
+
+1. **Empty JSON File Crash:** Loading an empty JSON file causes the program to crash.
+2. **Minimal Error Handling:** Currently, there is minimal error handling in the program.
+3. **Input Validation:** There is no check on input values to ensure they are in the valid format.
+4. **Duplicate Values in Random Play with Frequency:** The "Generate Random Plays with Frequency" functionality does not work properly; it generates duplicate values.
