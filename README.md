@@ -6,6 +6,7 @@ Lotto Console Interface is a simple console interface application that operates 
 This project provides basic functionalities to interact with lotto-draw data. Users can view the latest draw, add new draw results, delete existing draws, view winning numbers frequency, view special numbers frequency, generate random plays, and generate random plays with frequency.
 
 **How to Run**
+
 Prerequisites:
 
   1. Intellij IDEA Community 2023 installed on your system.
