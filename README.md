@@ -19,7 +19,8 @@ This project provides basic functionalities to interact with lotto-draw data. Us
 ### 3. Running the Program:
 
     - Open Intellij IDEA Community 2023.
-    - Import the project by selecting File > Open and navigating to the directory where you cloned or downloaded the code.
+    - Import the project by selecting File > Open and navigating to the directory 
+      where you cloned or downloaded the code.
     - Locate the run button, typically in the top-right corner of the IDE or directly in the Main class.
     - Start the program by clicking the run button.
     - Follow the instructions provided in the interface to navigate the program.
